@@ -11,7 +11,8 @@ Stop watch using JavaScript
 
 - Homepage of the application
 - On resetting the stopwatch
-  ![image](https://github.com/gsd2005/stopwatch-javascript/assets/77780959/5122ed59-715d-4434-b9ca-a729d8e3e7f7)
+![image](https://github.com/gsd2005/stopwatch-javascript/assets/77780959/1bc890d6-1c87-450b-a553-a0a956f17c6f)
+
 
 - Stopwatch in progress
 ![image](https://github.com/gsd2005/stopwatch-javascript/assets/77780959/0caa0e20-9309-493d-b98a-2efe1297d0dd)
